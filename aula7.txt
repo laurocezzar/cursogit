@@ -5,3 +5,4 @@ exemplo 1 da aula #7
 2 - aula 8
 3 - aula 9
 4 - criando diretorio remoto
+5 - atualizando repositório local (remoto -> local) aula 11
